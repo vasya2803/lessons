@@ -1,0 +1,44 @@
+@import url('reset.css');
+
+.hed .literature p {
+   color: rgb(87, 250, 46);
+}
+.hed__one {
+   color: aqua;
+}
+.text {
+   color: rgb(9, 9, 9);
+}
+.literature {
+   color: blue;
+}
+.information {
+   color: red;
+}
+p {
+   color: blueviolet;
+}
+.leangvich p {
+   color: rgb(250, 152, 6);
+}
+.hed__two {
+   color: beige;
+}
+.footer__data {
+   color: rgb(122, 122, 198);
+}
+.text__footer {
+   color: rgb(102, 229, 229);
+}
+.footer__menu {
+   color: chartreuse;
+}
+.list {
+   color: darkslategrey;
+}
+.namber {
+   color: maroon;
+}
+#screm {
+   color: purple;
+}
